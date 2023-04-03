@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Engineer and Full-Stack Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [http://suryaanshrathinam.com/](http://suryaanshrathinam.com/)
+- 👨‍💻 All of my projects are available at [https://suryaanshrathinam.com/](https://suryaanshrathinam.com/)
 
 - 💬 Ask  **anything related to Web Development**
 
