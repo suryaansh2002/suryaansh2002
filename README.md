@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **a Fullstack developer**
 
-- 🌱 I’m currently exploring **LLM's and a various projects using the same.**
+- 🌱 I’m currently exploring **LLM's and various projects using the same.**
 
 - 👨‍💻 All of my projects are available at [https://www.suryaanshrathinam.com/](https://www.suryaanshrathinam.com/)
 
