@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suryaansh2002@gmail.com**
 
-- 📄 Know about my experiences [https://www.suryaanshrathinam.com/static/media/Suryaansh%20Rathinam%20Resume%20Latest.f131380a2eface76ba5c.pdf](https://www.suryaanshrathinam.com/static/media/Suryaansh%20Rathinam%20Resume%20Latest.f131380a2eface76ba5c.pdf)
+- 📄 Know about my experiences [https://www.suryaanshrathinam.com/static/media/SuryaanshRathinam_Resume.d62e71040f08b560ad8b.pdf](https://www.suryaanshrathinam.com/static/media/SuryaanshRathinam_Resume.d62e71040f08b560ad8b.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
