@@ -51,5 +51,4 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryaansh2002&show_icons=true&locale=en&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryaansh2002)
